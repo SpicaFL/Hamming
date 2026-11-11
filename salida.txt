@@ -11,4 +11,4 @@ ATCGAT A=2 C=1 G=1 T=2 GC=33.3%
 ATGGCT A=1 C=1 G=2 T=2 GC=50.0%
 Pareja 4: ATCXAT vs ATGGCT -> Error: caracteres inválidos
 Pareja 5: ATCG vs ATCGATC -> Error: longitudes diferentes
-Aviso: línea ignorada por formato incorrecto: AAA CCC GGGs
+Aviso: línea ignorada por formato incorrecto: AAA CCC GGG
