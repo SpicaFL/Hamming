@@ -1,0 +1,14 @@
+Nombre del archivo: pruebas.txt
+
+Pareja 1: ATCGAT vs ATCGAT -> Distancia: 0 | Identidad: 100.0%
+ATCGAT A=2 C=1 G=1 T=2 GC=33.3%
+ATCGAT A=2 C=1 G=1 T=2 GC=33.3%
+Pareja 2: AAAA vs TTTT -> Distancia: 4 | Identidad: 0.0%
+AAAA A=4 C=0 G=0 T=0 GC=0.0%
+TTTT A=0 C=0 G=0 T=4 GC=0.0%
+Pareja 3: ATCGAT vs ATGGCT -> Distancia: 2 | Identidad: 66.7%
+ATCGAT A=2 C=1 G=1 T=2 GC=33.3%
+ATGGCT A=1 C=1 G=2 T=2 GC=50.0%
+Pareja 4: ATCXAT vs ATGGCT -> Error: caracteres inválidos
+Pareja 5: ATCG vs ATCGATC -> Error: longitudes diferentes
+Aviso: línea ignorada por formato incorrecto: AAA CCC GGGs
