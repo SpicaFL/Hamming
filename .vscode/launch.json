@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
+      "externalConsole": false,
       "cwd": "c:/Users/SAJIT CHALJUB B/OneDrive/Documentos/GitHub/Hamming",
       "program": "c:/Users/SAJIT CHALJUB B/OneDrive/Documentos/GitHub/Hamming/build/Debug/outDebug",
       "MIMode": "gdb",
