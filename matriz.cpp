@@ -49,8 +49,6 @@ int main() {
             D[i][j] = distanciaHamming(seq[i], seq[j]);
         }
     }
-
-    // Imprimir matriz con formato
     cout << "\t";
     for (int j = 0; j < N; j++) {
         cout << "S" << (j + 1) << "\t";
